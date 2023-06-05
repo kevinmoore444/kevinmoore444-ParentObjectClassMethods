@@ -22,7 +22,7 @@
  * whereas the code:
  * public String toString(){
  *   //code here
- * }
+ * 
  * Will override the default toString() method. The String that is returned is the String representation of this object.
  *
  * Overriding equals and toString will be the task for this challenge:
